@@ -20,3 +20,5 @@
 /bin/Debug/net6.0
 
 /bin/Release/net7.0
+
+**/bin/

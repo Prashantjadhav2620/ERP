@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<head>
+    @* <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/IconSheet.css" rel="stylesheet" />
+    <link href="~/Content/CSS/font-awesome.css" rel="stylesheet" /> *@
+    <link href="~/css/Site.css" rel="stylesheet" />
+    <link href="~/css/iconsheet.css" rel="stylesheet" />
+    <link href="~/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+
+<body class="bg-dark">
+    <div class="container">
+        <div class="row m-5 p-5 bg">
+            <div class="col-md-7 img-bg">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.svg"
+                     class="img-fluid" alt="Phone image">
+
+            </div>
+            <div class="col-md-5 login-block">
+
+                <h1>Wel-come to MSPL World...!</h1>
+
+                <form action="#">
+
+                    <div class="form-group">
+                        <div class="input-group">
+
+                            <span class="input-group-addon mr-2"><i class="fa fa-solid fa-envelope"></i></span>
+                            <input id="userid" type="text" class="form-control" placeholder="User Id">
+
+                        </div>
+                    </div>
+
+                    <hr class="hr-xs">
+
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon mr-2"><i class="fa fa-lock ti-unlock"></i></span>
+                            <input type="password" class="form-control" placeholder="Password">
+                        </div>
+                    </div>
+
+                    <button id="btnlogin" class="btn btn-primary btn-block" type="submit"><a href="/Admin/Admin/Index">Login</a></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>

@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+   @*  @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr") *@
+
+</head>
+<body>
+    @*<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+    <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" title="more options">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    </button>
+    @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+    </div>
+    <div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+    <li>@Html.ActionLink("About", "About", "Home")</li>
+    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+    </ul>
+    </div>
+    </div>
+    </div>*@
+
+    @* test *@
+
+    <!--<div class="wrapper">
+
+        <!-- Sidebar  -->
+    <!--<nav id="sidebar" class="overflow-auto" ">
+        <div class="sidebar-header">
+            <h4>ERP</h4>
+        </div>
+
+        <ul class="list-unstyled components">
+            <li class="active">
+                <a href="/Home/Index">Dashboard</a>
+            </li>-->
+    @*<li >
+    <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
+    <ul class="collapse list-unstyled" id="homeSubmenu">
+    <li>
+    <a href="#">Home 1</a>
+    </li>
+    <li>
+    <a href="#">Home 2</a>
+    </li>
+    <li>
+    <a href="#">Home 3</a>
+    </li>
+    </ul>
+    </li>*@
+
+
+    <!--<li>
+                <a href="/Home/About">About</a>
+            </li>
+            <li>
+                <a href="/Payment/Index">Payment</a>
+            </li>
+            <li>
+                <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Calendar</a>
+                <ul class="collapse list-unstyled" id="pageSubmenu">
+                    <li>
+                        <a href="/Calendar/Leave">Leave</a>
+                    </li>
+                    <li>
+                        <a href="#">Holiday</a>
+                    </li>
+                    <li>
+                        <a href="#">Page 3</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Department</a>
+            </li>
+            <li>
+                <a href="/Report/Index">Report</a>
+            </li>
+            <li>
+                <a href="/Home/Contact">Contact</a>
+            </li>
+            <li>
+                <a href="#profileSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Profile</a>
+                <ul class="collapse list-unstyled" id="profileSubmenu">
+                    <li>
+                        <a href="/Calendar/Leave">My Profile</a>
+                    </li>
+                    <li>
+                        <a href="#">Account Setting</a>
+                    </li>
+                    <li>
+                        <a href="#">Logout</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+    </nav>-->
+    <!-- Page Content -->
+    <!--<div id="content" class="container-fluid body-content">
+    @* @RenderBody()*@
+    @*<nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+                    @RenderBody()
+                </div>
+            </nav>*@
+        </div>
+    </div>-->
+    <!--<div class="container body-content">-->
+    @RenderBody()
+    <!--<hr />-->
+    @*<footer>
+    <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+    </footer>*@
+    <!--</div>-->
+   @*  @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap") *@
+    @RenderSection("scripts", required: false)
+    @*<script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>*@
+</body>
+</html>

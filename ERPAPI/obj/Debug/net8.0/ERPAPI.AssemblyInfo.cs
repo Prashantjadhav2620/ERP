@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERPAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af746465a4a85ea4e75db208c452f0e8e8c0c3b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERPAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERPAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

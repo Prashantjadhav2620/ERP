@@ -4653,19 +4653,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kamle\\.nuget\\packages\\": {}
+    "C:\\Users\\prass\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ERP Project\\ERPAPI\\ERPAPI.csproj",
+      "projectUniqueName": "G:\\new\\ERP\\ERP\\ERPAPI\\ERPAPI.csproj",
       "projectName": "ERPAPI",
-      "projectPath": "F:\\ERP Project\\ERPAPI\\ERPAPI.csproj",
-      "packagesPath": "C:\\Users\\kamle\\.nuget\\packages\\",
-      "outputPath": "F:\\ERP Project\\ERPAPI\\obj\\",
+      "projectPath": "G:\\new\\ERP\\ERP\\ERPAPI\\ERPAPI.csproj",
+      "packagesPath": "C:\\Users\\prass\\.nuget\\packages\\",
+      "outputPath": "G:\\new\\ERP\\ERP\\ERPAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kamle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\prass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4673,6 +4678,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4752,7 +4758,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

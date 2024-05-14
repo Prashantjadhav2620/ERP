@@ -278,3 +278,286 @@ F:\ERP Project\ERPAPI\obj\Debug\net8.0\refint\ERPAPI.dll
 F:\ERP Project\ERPAPI\obj\Debug\net8.0\ERPAPI.pdb
 F:\ERP Project\ERPAPI\obj\Debug\net8.0\ERPAPI.genruntimeconfig.cache
 F:\ERP Project\ERPAPI\obj\Debug\net8.0\ref\ERPAPI.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\appsettings.Development.json
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\appsettings.json
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\important-10-05-2024.json
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.exe
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.deps.json
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.runtimeconfig.json
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.pdb
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Azure.Core.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Azure.Identity.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Humanizer.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Serilog.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.CodeDom.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Memory.Data.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.csproj.AssemblyReference.cache
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.AssemblyInfoInputs.cache
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.AssemblyInfo.cs
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.csproj.CoreCompileInputs.cache
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.sourcelink.json
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets.build.json
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets.development.json
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets\msbuild.ERPAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ERPAPI.props
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERPAPI.props
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERPAPI.props
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets.pack.json
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\scopedcss\bundle\ERPAPI.styles.css
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.csproj.Up2Date
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\refint\ERPAPI.dll
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.pdb
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.genruntimeconfig.cache
+F:\ERP Project\Prashant  Git Project\ERP\ERPAPI\obj\Debug\net8.0\ref\ERPAPI.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\appsettings.Development.json
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\appsettings.json
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\important-10-05-2024.json
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.exe
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.deps.json
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.runtimeconfig.json
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ERPAPI.pdb
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Azure.Core.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Azure.Identity.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Humanizer.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Serilog.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.CodeDom.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Memory.Data.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.csproj.AssemblyReference.cache
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.AssemblyInfoInputs.cache
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.AssemblyInfo.cs
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.csproj.CoreCompileInputs.cache
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.sourcelink.json
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets.build.json
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets.development.json
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets\msbuild.ERPAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ERPAPI.props
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ERPAPI.props
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ERPAPI.props
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\staticwebassets.pack.json
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\scopedcss\bundle\ERPAPI.styles.css
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.csproj.Up2Date
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.dll
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\refint\ERPAPI.dll
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.pdb
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ERPAPI.genruntimeconfig.cache
+G:\new\ERP\ERP\ERPAPI\obj\Debug\net8.0\ref\ERPAPI.dll
+G:\new\ERP\ERP\ERPAPI\bin\Debug\net8.0\important-14-05-2024.json

@@ -1,0 +1,929 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERP_Core.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ERP_Core.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\CSS\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\font-awesome.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\CSS\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\font-awesome.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\Fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\Fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\Fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\Fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\Fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\IconSheet.css",
+      "PackagePath": "staticwebassets\\css\\IconSheet.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\animated.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\animated.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\bordered-pulled.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\core.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\core.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\fixed-width.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\fixed-width.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\font-awesome.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\font-awesome.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\icons.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\icons.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\larger.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\larger.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\list.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\list.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\mixins.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\mixins.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\path.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\path.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\rotated-flipped.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\stacked.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\stacked.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Less\\FontAwesome\\variables.less",
+      "PackagePath": "staticwebassets\\css\\Less\\FontAwesome\\variables.less"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_animated.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_animated.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_core.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_fixed-width.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_icons.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_icons.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_larger.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_larger.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_list.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_list.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_mixins.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_path.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_path.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_stacked.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_stacked.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\_variables.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Scss\\FontAwesome\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\css\\Scss\\FontAwesome\\font-awesome.scss"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\Site.css",
+      "PackagePath": "staticwebassets\\css\\Site.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\all.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\brands.css",
+      "PackagePath": "staticwebassets\\css\\brands.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\css\\brands.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\regular.css",
+      "PackagePath": "staticwebassets\\css\\regular.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\css\\regular.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\solid.css",
+      "PackagePath": "staticwebassets\\css\\solid.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\css\\solid.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\css\\v4-shims.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\font\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\fonts\\font\\line-awesome.eot"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\font\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\fonts\\font\\line-awesome.svg"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\font\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font\\line-awesome.ttf"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\font\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\fonts\\font\\line-awesome.woff"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\font\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font\\line-awesome.woff2"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\README.md",
+      "PackagePath": "staticwebassets\\js\\README.md"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\esm\\popper-utils.js",
+      "PackagePath": "staticwebassets\\js\\esm\\popper-utils.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\esm\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\js\\esm\\popper-utils.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\js\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\esm\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\js\\esm\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\esm\\popper.js",
+      "PackagePath": "staticwebassets\\js\\esm\\popper.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\esm\\popper.js.map",
+      "PackagePath": "staticwebassets\\js\\esm\\popper.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\esm\\popper.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\esm\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\js\\esm\\popper.min.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\all.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\all.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\all.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\all.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\brands.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\brands.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\brands.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\brands.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\conflict-detection.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\conflict-detection.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\fontawesome.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\fontawesome.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\fontawesome.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\regular.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\regular.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\regular.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\regular.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\solid.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\solid.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\solid.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\solid.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\v4-shims.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\v4-shims.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\fontawesome\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome\\v4-shims.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\index.d.ts",
+      "PackagePath": "staticwebassets\\js\\index.d.ts"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\index.js.flow",
+      "PackagePath": "staticwebassets\\js\\index.js.flow"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\modernizr-2.8.3.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-2.8.3.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\popper-utils.js",
+      "PackagePath": "staticwebassets\\js\\popper-utils.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\js\\popper-utils.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\js\\popper-utils.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\js\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\popper.js.map",
+      "PackagePath": "staticwebassets\\js\\popper.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\js\\popper.min.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\index.js",
+      "PackagePath": "staticwebassets\\js\\src\\index.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\methods\\defaults.js",
+      "PackagePath": "staticwebassets\\js\\src\\methods\\defaults.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\methods\\destroy.js",
+      "PackagePath": "staticwebassets\\js\\src\\methods\\destroy.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\methods\\disableEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\src\\methods\\disableEventListeners.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\methods\\enableEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\src\\methods\\enableEventListeners.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\methods\\placements.js",
+      "PackagePath": "staticwebassets\\js\\src\\methods\\placements.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\methods\\update.js",
+      "PackagePath": "staticwebassets\\js\\src\\methods\\update.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\applyStyle.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\applyStyle.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\arrow.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\arrow.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\computeStyle.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\computeStyle.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\flip.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\flip.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\hide.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\hide.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\index.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\index.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\inner.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\inner.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\keepTogether.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\keepTogether.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\offset.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\offset.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\preventOverflow.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\preventOverflow.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\modifiers\\shift.js",
+      "PackagePath": "staticwebassets\\js\\src\\modifiers\\shift.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\clockwise.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\clockwise.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\computeAutoPlacement.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\computeAutoPlacement.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\debounce.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\debounce.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\find.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\find.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\findCommonOffsetParent.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\findCommonOffsetParent.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\findIndex.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\findIndex.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getBordersSize.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getBordersSize.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getBoundaries.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getBoundaries.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getBoundingClientRect.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getBoundingClientRect.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getClientRect.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getClientRect.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getFixedPositionOffsetParent.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getFixedPositionOffsetParent.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getOffsetParent.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getOffsetParent.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getOffsetRect.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getOffsetRect.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getOffsetRectRelativeToArbitraryNode.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getOffsetRectRelativeToArbitraryNode.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getOppositePlacement.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getOppositePlacement.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getOppositeVariation.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getOppositeVariation.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getOuterSizes.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getOuterSizes.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getParentNode.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getParentNode.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getPopperOffsets.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getPopperOffsets.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getReferenceNode.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getReferenceNode.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getReferenceOffsets.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getReferenceOffsets.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getRoot.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getRoot.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getRoundedOffsets.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getRoundedOffsets.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getScroll.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getScroll.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getScrollParent.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getScrollParent.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getStyleComputedProperty.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getStyleComputedProperty.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getSupportedPropertyName.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getSupportedPropertyName.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getViewportOffsetRectRelativeToArtbitraryNode.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getViewportOffsetRectRelativeToArtbitraryNode.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getWindow.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getWindow.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\getWindowSizes.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\getWindowSizes.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\includeScroll.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\includeScroll.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\index.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\index.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\isBrowser.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\isBrowser.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\isFixed.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\isFixed.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\isFunction.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\isFunction.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\isIE.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\isIE.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\isModifierEnabled.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\isModifierEnabled.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\isModifierRequired.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\isModifierRequired.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\isNumeric.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\isNumeric.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\isOffsetContainer.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\isOffsetContainer.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\removeEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\removeEventListeners.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\runModifiers.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\runModifiers.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\setAttributes.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\setAttributes.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\setStyles.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\setStyles.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\src\\utils\\setupEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\src\\utils\\setupEventListeners.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\umd\\popper-utils.js",
+      "PackagePath": "staticwebassets\\js\\umd\\popper-utils.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\umd\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\js\\umd\\popper-utils.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\js\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\umd\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\js\\umd\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\umd\\popper.js",
+      "PackagePath": "staticwebassets\\js\\umd\\popper.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\umd\\popper.js.flow",
+      "PackagePath": "staticwebassets\\js\\umd\\popper.js.flow"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\umd\\popper.js.map",
+      "PackagePath": "staticwebassets\\js\\umd\\popper.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\umd\\popper.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\js\\umd\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\js\\umd\\popper.min.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate-vsdoc.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate-vsdoc.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery\\dist\\jquery-3.4.1.intellisense.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-3.4.1.intellisense.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery\\dist\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery\\dist\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery\\dist\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery\\dist\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery\\dist\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "G:\\new\\ERP\\ERP\\ERP_Core\\wwwroot\\lib\\jquery\\dist\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ERP_Core.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ERP_Core.props",
+      "PackagePath": "build\\ERP_Core.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ERP_Core.props",
+      "PackagePath": "buildMultiTargeting\\ERP_Core.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ERP_Core.props",
+      "PackagePath": "buildTransitive\\ERP_Core.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
